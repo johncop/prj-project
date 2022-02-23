@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/UpdateItemController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/product/CategoryDTO.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/web/AddProduct.jsp</file>
+            <file>file:/E:/netbean/bai%20lam/teste/nbproject/build-impl.xml</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/utils/DBUtils.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/LoginController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/order/OrderDAO.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/web/createUser.jsp</file>
+            <file>file:/E:/netbean/bai%20lam/teste/web/Home.jsp</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/DeleteController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/AddToCartControllers.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/CreateController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/MainController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/LoadForAdminController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/shopping/Cart.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/user/UserDTO.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/web/Detail.jsp</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/product/ProductError.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/AddProductController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/CategoryController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/product/ProductDAO.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/web/login.jsp</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/CheckOutController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/web/admin.jsp</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/SearchController.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/controllers/LoadProducts.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/order/OrderDTO.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/src/java/sample/user/UserDAO.java</file>
+            <file>file:/E:/netbean/bai%20lam/teste/web/cart.jsp</file>
+        </group>
+    </open-files>
+</project-private>
